@@ -1,0 +1,22 @@
+{
+    "cart":[
+        {
+            "id":1,
+            "image":"https://preview.colorlib.com/theme/olla/assets/img/icon/services1.svg",
+            "name":"Unlimited Compnents",
+            "category":"Combine sections from Olla's vast component library and create beautiful."
+        },
+        {
+            "id":2,
+            "image":"https://preview.colorlib.com/theme/olla/assets/img/icon/services2.svg",
+            "name":"Awesome Support",
+            "category":"Combine sections from Olla's vast component library and create beautiful."
+        },
+        {
+            "id":3,
+            "image":"https://preview.colorlib.com/theme/olla/assets/img/icon/services3.svg",
+            "name":"Responsive Design",
+            "category":"Combine sections from Olla's vast component library and create beautiful."
+        }
+    ]
+}

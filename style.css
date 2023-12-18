@@ -1,0 +1,165 @@
+.container {
+  max-width: 1200px;
+  padding: 0px 20px;
+  margin: auto;
+}
+
+.sect {
+  width: 100%;
+}
+.sect .sect1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+.sect .sect1 .basliq1 h1 {
+  text-align: center;
+  font-size: 30px;
+  color: #041735;
+  font-family: "Cabin", sans-serif;
+  font-weight: 700;
+}
+.sect .sect1 .basliq1 .text1 {
+  text-align: center;
+  font-weight: 400;
+  font-size: 18px;
+  color: #656565;
+  line-height: 1.5;
+}
+.sect .sect1 .info {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.sect .sect1 .info .info1 {
+  width: 300px;
+  height: 280px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sect .sect1 .info .info1 .hhh {
+  width: 250px;
+  height: 250px;
+}
+.sect .sect1 .info .info1 .hhh .basliq2 {
+  width: 250px;
+  height: 50px;
+  text-align: center;
+}
+.sect .sect1 .info .info1 .hhh a {
+  text-decoration: none;
+  color: #041735;
+  font-size: 20px;
+  font-weight: 700;
+}
+.sect .sect1 .info .info1 .hhh .text2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sect .sect1 .info .info1 .hhh .text2 .ggg {
+  width: 74px;
+  height: 63px;
+}
+.sect .sect1 .info .info1 .hhh .info2 {
+  width: 250px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sect .sect1 .info .info1 .hhh .info2 .fff {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  font-size: 18px;
+  color: #656565;
+}
+.sect .sect1 .info .info2 {
+  width: 300px;
+  height: 280px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sect .sect1 .info .info2 .hhh {
+  width: 250px;
+  height: 250px;
+}
+.sect .sect1 .info .info2 .hhh .basliq2 {
+  text-align: center;
+  width: 250px;
+  height: 50px;
+  text-align: center;
+}
+.sect .sect1 .info .info2 .hhh a {
+  text-decoration: none;
+  color: #041735;
+  font-size: 20px;
+  font-weight: 700;
+}
+.sect .sect1 .info .info2 .hhh .text2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sect .sect1 .info .info2 .hhh .text2 .ggg {
+  width: 74px;
+  height: 63px;
+}
+.sect .sect1 .info .info2 .hhh .info2 {
+  width: 250px;
+  height: 100px;
+}
+.sect .sect1 .info .info2 .hhh .info2 .fff {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  font-size: 18px;
+  color: #656565;
+}
+.sect .sect1 .info .info3 {
+  width: 300px;
+  height: 280px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sect .sect1 .info .info3 .hhh {
+  width: 250px;
+  height: 250px;
+}
+.sect .sect1 .info .info3 .hhh .basliq2 {
+  width: 250px;
+  height: 50px;
+  text-align: center;
+}
+.sect .sect1 .info .info3 .hhh a {
+  text-decoration: none;
+  color: #041735;
+  font-size: 20px;
+  font-weight: 700;
+}
+.sect .sect1 .info .info3 .hhh .text2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sect .sect1 .info .info3 .hhh .text2 .ggg {
+  width: 74px;
+  height: 63px;
+}
+.sect .sect1 .info .info3 .hhh .info2 {
+  width: 250px;
+  height: 100px;
+}
+.sect .sect1 .info .info3 .hhh .info2 .fff {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  font-size: 18px;
+  color: #656565;
+}/*# sourceMappingURL=style.css.map */
